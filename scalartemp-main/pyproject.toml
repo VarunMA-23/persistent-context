@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "persistent_context_engine"
+version = "1.0.0"
+description = "Persistent Context Engine for Autonomous SRE"
+authors = [
+    { name="Hackathon Team" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+context-engine = "engine.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["."]
+python_files = ["test_*.py"]
