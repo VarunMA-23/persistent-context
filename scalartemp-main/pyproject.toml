@@ -7,7 +7,7 @@ name = "persistent_context_engine"
 version = "1.0.0"
 description = "Persistent Context Engine for Autonomous SRE"
 authors = [
-    { name="Hackathon Team" }
+    { name="NEURAL NINJAS" }
 ]
 readme = "README.md"
 requires-python = ">=3.8"

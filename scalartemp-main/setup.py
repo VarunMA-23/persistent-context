@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="persistent_context_engine",
     version="1.0.0",
-    author="Hackathon Team",
+    author="NEURAL NINJAS",
     description="Persistent Context Engine for Autonomous SRE",
     long_description=long_description,
     long_description_content_type="text/markdown",
