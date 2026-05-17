@@ -16,7 +16,7 @@ It solves the "Systems Problem" of **topology drift** and **operational evolutio
 Explore the complete architecture and watch the Persistent Context Engine build and benchmark in action:
 
 <div align="center">
-  <video src="Persistent-Context-Working.mov" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" controls>
+  <video src="Persistent-Context-Working.mp4" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" controls>
     Your browser does not support the video tag.
   </video>
   
