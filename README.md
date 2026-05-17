@@ -142,8 +142,8 @@ The substrate "learns" from every interaction:
 Run these from a terminal after cloning (same commands on **macOS**, **Linux**, and **Windows** shells such as PowerShell or Git Bash):
 
 ```bash
-git clone https://github.com/Naman728/Persistent-Context-Engine-for-autonomous-SRE-Neural_Ninjas.git
-cd Persistent-Context-Engine-for-autonomous-SRE-Neural_Ninjas
+git clone https://github.com/VarunMA-23/persistent-context
+cd persistent-context
 
 pip install -r scalartemp-main/requirements.txt
 pip install numpy
