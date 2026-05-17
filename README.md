@@ -11,6 +11,20 @@ The **Persistent Context Engine (PCE)** is a high-scale operational memory subst
 
 It solves the "Systems Problem" of **topology drift** and **operational evolution**: when services are renamed, dependencies shift, and failure signatures morph, PCE preserves the logical reasoning required to resolve incidents without forcing engineers to rebuild causal chains from scratch.
 
+## 🎥 Build Walkthrough & Demo
+
+Explore the complete architecture and watch the Persistent Context Engine build and benchmark in action:
+
+<div align="center">
+  <video src="Persistent-Context-Working.mov" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" controls>
+    Your browser does not support the video tag.
+  </video>
+  
+  <p align="center">
+    <i>Watch the full 5-minute deep-dive on compilation, causal graph synthesis, and Anvil P-02 evaluations.</i>
+  </p>
+</div>
+
 ---
 
 ## 🏗️ Architecture
